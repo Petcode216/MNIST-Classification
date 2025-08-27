@@ -14,15 +14,16 @@ While MNIST is a classic dataset, we increase its complexity step by step, makin
 ---
 
 ## 📂 Project Structure
-
-MNIST_Classification/
-│
-├── data/ # Dataset (raw + processed)
-├── notebooks/ # Step-by-step Jupyter notebooks
-├── src/ # Reusable Python modules
-├── results/ # Plots, metrics, and reports
-├── requirements.txt # Python dependencies
-└── README.md # Documentation
+```bash
+  MNIST_Classification/
+  │
+  ├── data/ # Dataset (raw + processed)
+  ├── notebooks/ # Step-by-step Jupyter notebooks
+  ├── src/ # Reusable Python modules
+  ├── results/ # Plots, metrics, and reports
+  ├── requirements.txt # Python dependencies
+  └── README.md # Documentation
+```
 
 ---
 
