@@ -10,10 +10,6 @@ While MNIST is a classic dataset, we increase its complexity step by step, makin
 - Multi-label classification (e.g., even/odd AND ≥5)
 - Multi-output classification (image denoising task)
 - Data augmentation for real-world complexity
-
----
-## Dataset
-Get 
 ---
 ## 📂 Project Structure
 ```bash
