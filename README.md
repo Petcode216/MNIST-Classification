@@ -12,7 +12,9 @@ While MNIST is a classic dataset, we increase its complexity step by step, makin
 - Data augmentation for real-world complexity
 
 ---
-
+## Dataset
+Get 
+---
 ## 📂 Project Structure
 ```bash
   MNIST_Classification/
@@ -24,7 +26,8 @@ While MNIST is a classic dataset, we increase its complexity step by step, makin
   ├── requirements.txt # Python dependencies
   └── README.md # Documentation
 ```
-
+## Dataset
+The dataset is too large for GitHub. Download it here: [https://www.kaggle.com/datasets/phatle216/mnist-classification-dataset]
 ---
 
 ## 🚀 Installation
